@@ -1,0 +1,29 @@
+@media screen and (max-width: 768px) {
+    #main{
+        border-bottom: solid 1px #cccccc;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #main{
+        border-right: solid 1px #cccccc;
+    }
+}
+
+#menu div{
+    border-left: solid 1px #cccccc;
+}
+
+#menu{
+    border-bottom: solid 1px #cccccc;
+}
+
+#header h1{
+    font-family: fantasy;
+    font-size: 3em;
+}
+
+#sidebar{
+    font-weight: bold;
+    font-style: italic;
+}
